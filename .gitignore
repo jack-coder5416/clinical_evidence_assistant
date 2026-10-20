@@ -1,0 +1,9 @@
+.env
+.streamlit/secrets.toml
+chroma_db/
+data/sync_state.sqlite3
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
